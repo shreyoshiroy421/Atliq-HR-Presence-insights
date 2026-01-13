@@ -2,7 +2,7 @@
 A power BI dashboard analyzing employee attendance and WFH trends
 
 # Dashboard Preview
-![Dashboard Preview](dashboard preview.png) 
+![Dashboard Preview](dashboard%20preview.png) 
 
 # Project Overview
 This project provides a comprehensive analysis of employee attendance patterns at Atliq Technologies. 
