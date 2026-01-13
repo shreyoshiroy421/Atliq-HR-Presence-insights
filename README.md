@@ -1,5 +1,11 @@
 # Atliq-HR-Presence-insights
-A power BI dashboard analyzing employee attendance and WFH trends
+--Developed an end-to-end Power BI solution to analyze three months of employee attendance logs for improved hybrid work capacity planning and cost-saving infrastructure utilization.
+
+--Created dynamic DAX measures to track WFH vs. Office preferences, identifying a 13.8% WFH peak on Fridays to assist management in scheduling team-building events.
+
+--Monitored Sick Leave patterns to provide early-warning indicators for seasonal flus, enabling proactive workplace health measures.
+
+--Utilized Power Query for unpivoting and cleaning data to ensure a scalable architecture compatible with future system migrations.
 
 # Dashboard Preview
 ![Dashboard Preview](dashboard%20preview.png) 
